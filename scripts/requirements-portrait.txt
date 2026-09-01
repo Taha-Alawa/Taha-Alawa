@@ -1,0 +1,7 @@
+# Only needed locally, when you change your photo.
+# The daily GitHub Action does NOT install these.
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
