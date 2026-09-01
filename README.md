@@ -20,7 +20,7 @@
 <h3><code>Taha-Alawa@github ~ $ cat contact.txt</code></h3>
 
 <a href="mailto:Tahaalawa366@gmail.com"><img src="https://img.shields.io/badge/email-Tahaalawa366@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&color=39d353" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/taha-alawa"><img src="https://img.shields.io/badge/linkedin-Taha%20Alawa-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/taha-alawa-2a2a7427b"><img src="https://img.shields.io/badge/linkedin-Taha%20Alawa-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="LinkedIn" /></a>
 
 <br><br>
 </div>
